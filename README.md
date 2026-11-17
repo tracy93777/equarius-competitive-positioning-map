@@ -2,7 +2,9 @@
 
 Interactive competitive positioning map, published with GitHub Pages.
 
-**Website:** https://tracy93777.github.io/equarius-competitive-positioning-map/?view=1
+**Website:** https://tgao.me/equarius-competitive-positioning-map/?view=1
+
+GitHub URL (redirects to the account’s custom domain): https://tracy93777.github.io/equarius-competitive-positioning-map/?view=1
 
 ## Publication
 
