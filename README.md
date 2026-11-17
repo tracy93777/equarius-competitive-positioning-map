@@ -11,9 +11,9 @@ GitHub URL (redirects to the account’s custom domain): https://tracy93777.gith
 This repository contains the portable HTML export of the Equarius Competitive Positioning Map, including its charts and embedded reviewed data. No build or package installation is required.
 
 - Original site: https://equarius-competitive-positioning-map.tracy9377.chatgpt.site/?view=1
-- Source version: 3
-- Source commit: `c396c7461c3b1e3d7f52483557621a4a71504c41`
-- Data snapshot SHA-256: `3701bd66b5e59a49ee6df8520a2b5fa19f8c1cfa597b5768f0e5261363b9b59a`
+- Benchmark release: 17 November 2026
+- Source commit: `26b3d9a4fe87f5da46d343ca603bb66cb0c52b40`
+- Data snapshot SHA-256: `92c0b2abdc71255a31ae311387c75ca5dc1367016665c2f18d5dc1c0e7985062`
 
 GitHub Pages serves `index.html` from the root of the `main` branch. View the site with `?view=1` to match the shared presentation view. This is a static export; original Sites authentication, server-side synchronization, and automatic data refresh are not hosted by GitHub Pages. Published data changes require replacing the export and pushing a commit.
 
